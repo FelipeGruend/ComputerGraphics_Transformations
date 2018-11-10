@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fcgru\source\repos\novo CG_UFPel\src\CG_UFPel\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fcgru\source\repos\novo CG_UFPel\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\fcgru\source\repos\novo CG_UFPel\src\CG_UFPel\cg_ufpel.fs" />
+    <None Include="C:\Users\fcgru\source\repos\novo CG_UFPel\src\CG_UFPel\cg_ufpel.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0AFE669E-BEC1-3476-9E36-D0F1DB88A37D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

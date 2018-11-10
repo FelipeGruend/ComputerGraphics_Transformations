@@ -1,0 +1,5 @@
+C:/Users/fcgru/source/repos/novo CG_UFPel/CMakeFiles/STB_IMAGE.dir
+C:/Users/fcgru/source/repos/novo CG_UFPel/CMakeFiles/GLAD.dir
+C:/Users/fcgru/source/repos/novo CG_UFPel/CMakeFiles/CG_UFPel.dir
+C:/Users/fcgru/source/repos/novo CG_UFPel/CMakeFiles/ALL_BUILD.dir
+C:/Users/fcgru/source/repos/novo CG_UFPel/CMakeFiles/ZERO_CHECK.dir
